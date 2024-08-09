@@ -122,7 +122,7 @@ username1 password1
 username2 password2
 ```
 
-Place this file in the same directory as the server application.
+Place this file in the same directory where the server application is present.
 
 ## 🤝 Contributing
 
